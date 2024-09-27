@@ -45,6 +45,8 @@ Kewei Li: kwbb1997@gmail.com
 
 Yanwen Kong
 
+Fei Li
+
 ## 声明
 ```
 2024年研究生数学建模竞赛E题
