@@ -41,7 +41,7 @@ python traffic_flow.py
 
 ### 贡献
 
-Kewei Li: kwbb1997@gmail.com
+Kewei Li: 数据提取
 
 Yanwen Kong: 数据预处理
 
