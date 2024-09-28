@@ -43,9 +43,8 @@ python traffic_flow.py
 
 Kewei Li: kwbb1997@gmail.com
 
-Yanwen Kong
+Yanwen Kong: 数据预处理
 
-Fei Li
 
 ## 声明
 ```
