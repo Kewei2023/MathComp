@@ -41,6 +41,8 @@ python traffic_flow.py
 
 ### 贡献
 
+Chuyue Wang: 论文撰写与建模
+
 Kewei Li: 数据提取
 
 Yanwen Kong: 数据预处理
